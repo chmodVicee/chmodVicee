@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi there 🤓
 
+A Developer solving real-world problems through code. I currently focus on full-stack software development, database design, and the implementation of programming best practices.
+
+### Building with: `.py` `.java` `.sql` `.html` `.css` `.js`
+### Using platforms: `bash` `git` `vs-code` `intellij` `postman`
+
+"_Always looking for something new to learn and improve 🌱_"
 <!--
 **chmodVicee/chmodVicee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
